@@ -1,1 +1,1 @@
-git tutorial merge deleted
+git tutorial merge deleted!
