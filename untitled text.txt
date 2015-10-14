@@ -1,1 +1,1 @@
-git tutorial merge conflict
+git tutorial merge conflict solved
